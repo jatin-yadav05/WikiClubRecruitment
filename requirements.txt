@@ -1,0 +1,9 @@
+# Core dependencies for the stock management system
+# No external dependencies required - uses only Python standard library
+
+# Development dependencies (optional)
+# pytest>=7.0.0          # For advanced testing features
+# black>=22.0.0          # Code formatting
+# flake8>=4.0.0          # Linting
+# mypy>=0.950            # Static type checking
+# coverage>=6.0          # Code coverage analysis
